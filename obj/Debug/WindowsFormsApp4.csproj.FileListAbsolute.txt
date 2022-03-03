@@ -1,0 +1,10 @@
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Proga vvpd\visio\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Proga vvpd\visio\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Proga vvpd\visio\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Proga vvpd\visio\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
